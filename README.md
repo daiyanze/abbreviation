@@ -5,9 +5,9 @@ a light weight css library that is less semantic but comprehensive
 This repository is highly under refactoring.
 
 ### TODO
-- [ ] margin style
-- [ ] padding style
-- [ ] font style
+- [ ] margin
+- [ ] padding
+- [ ] font
 - [ ] color
 - [ ] buttons
 - [ ] common tag default styles
